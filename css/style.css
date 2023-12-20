@@ -1,0 +1,70 @@
+/* google fonts ========== */
+
+:root {
+  --clr-primary: #ff4040;
+  --clr-secondary: #ac00fd;
+
+  --clr-dark: #050718;
+  --clr-light-dark: #171820;
+
+  --clr-title: #ffffff;
+  --clr-text: #a6a9b8;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.5;
+
+  background-color: var(--clr-dark);
+  color: var(--clr-text);
+}
+
+h1,
+h2 {
+  line-height: 1.4;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: baseline;
+}
+
+/* ends base  */
+
+/* ends public style  */
+
+/* nav mobile style ========== */
+
+/* hero section style ========== */
+
+/* how to use section style ========== */
+
+/* process section style ========== */
+
+/* about section style ========== */
+
+/* apps integration section style ========== */
+
+/* testimonials section style ========== */
+
+/* call to action section style ========== */
+
+/* footer section style ========== */
